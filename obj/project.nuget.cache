@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUF6urH29NaLoEtVGjenJx4GY3nki0XL7BkekVJtQcw7g21PlccNU5G4n/R3qichf64mak663HJr/HRu6qEQWw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\YT\\WebUrlShort\\WebUrlShort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmauro\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512",
+    "C:\\Users\\rmauro\\.nuget\\packages\\nanoid\\2.1.0\\nanoid.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
